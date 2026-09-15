@@ -70,7 +70,7 @@ function showHelp() {
   Available Commands:
   add <description>                 - Add a new task
   list                              - List all tasks
-  list <todo|in_progress|done>     - Filter tasks by status
+  list <todo|in_progress|done>      - Filter tasks by status
   update <id> <status> [desc]       - Update status and optionally description
   delete <id>                       - Delete a task
   exit                              - Close the application

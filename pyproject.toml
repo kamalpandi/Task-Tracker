@@ -1,0 +1,4 @@
+[tool.pyrefly]
+typeCheckingMode = "basic"
+reportUnusedImport = "none"
+reportUnusedVariable = "none"
